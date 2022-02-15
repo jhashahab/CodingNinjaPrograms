@@ -14,7 +14,7 @@ ALgorithm :
     is like : fah followed by a single space and their respective celsius.
 07. Again using System.out.prinln() : For cursor jumps to next line everytimes the 
     output comes .     
-Time Complexity :   
+Time Complexity :  O((e-s)/g+1) 
 Space Complexity : O(1)
 
 ****************************************************************************************
