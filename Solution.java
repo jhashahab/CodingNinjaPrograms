@@ -9,10 +9,10 @@ ALgorithm :
 03. Using Scanner s = new Scanner (System.in); for taking input from user.
 04. Applying for loop for doing same tasks several no of times : 
     for (int fah = S; fah <= E; fah = fah+W)
-05. Appliying Formulla: celsius = ((fah-32)*5)/9
+05. Appliying Celsius Formula= ((fah-32)*5)/9
 06. Using : System.out.print(fah + " " + celesius) :  For required output
     is like : fah followed by a single space and their respective celsius.
-07. Again using System.out.prinln() : For cursor jumps to next line everytimes the 
+07. Again using system.out.println() : For cursor jumps to next line everytimes the 
     output comes .     
 Time Complexity :  O((e-s)/g+1) 
 Space Complexity : O(1)
